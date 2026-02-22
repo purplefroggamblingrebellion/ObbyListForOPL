@@ -9,7 +9,7 @@
 			"PlaceID": 0,
 			"Img": 103939313065245,
 			"Rating": 5,
-			"Difficulty": "Effortless",
+			"Difficulty": "Effortless"
 			
 		},
 
@@ -23,10 +23,10 @@
 			"PlaceID": 0,
 			"Img": 14358784399,
 			"Rating": 8,
-			"Difficulty": "Opal",
+			"Difficulty": "Opal"
 
-		},
-	},
+		}
+	}
 
 
 
